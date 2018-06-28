@@ -48,3 +48,8 @@ License
 .. |PyPI Package| image:: https://badge.fury.io/py/probequest.svg
    :target: https://badge.fury.io/py/probequest
    :alt: PyPI Package
+
+
+用于嗅探并显示 在你无线网卡 附近传输的 wifi探测请求！
+.. |Code Coverage| image:: https://api.codacy.com/project/badge/Grade/16b9e70e51744256b37099ae8fe9132dxiu
+.. |Code Coverage| image:: https://api.codacy.com/project/badge/Grade/16b9e70e51744256b37099ae8fe9132d
